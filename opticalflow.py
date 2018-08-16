@@ -14,7 +14,7 @@ from scipy import ndimage
 
 from scipy.ndimage.filters import convolve
 
-FOLDER_PATH, EPOCHS = "circle_data/", 100
+FOLDER_PATH, EPOCHS = "data/", 100
 
 # first differntial equations
 x_kernel = np.array([[-1, 1], [-1, 1]]) / 4.

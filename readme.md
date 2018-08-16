@@ -1,4 +1,5 @@
-# Homography  
+# Optical Flow  
 
-> A homography is a perspective transformation of a plane, that is, a reprojection of a plane from one camera into a different camera view, subject to change in the translation (position) and rotation (orientation) of the camera.
+> Optical flow or optic flow is the pattern of apparent motion of objects, surfaces, and edges in a visual scene caused by the relative motion between an observer and a scene.
 
+![](https://github.com/markroxor/opticalFlow/blob/master/out.gif)
